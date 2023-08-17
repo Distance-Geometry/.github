@@ -2,8 +2,8 @@
 
 Choose your preferred language:
 
- * [English](#Distance\_Geometry)
- * [Português](#Geometria\_das\_Distâncias)
+ * [English](#distance-geometry)
+ * [Português](#geometria-das-distancias)
 
 ## Distance Geometry
 
