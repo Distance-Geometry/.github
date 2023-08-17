@@ -1,14 +1,49 @@
-## Hi there 👋
- * [English](#English)
- * [Português](#Português)
+## Welcome to Distance Geometry
 
-## English
+Choose your preferred language:
+
+ * [English](#Distance\_Geometry)
+ * [Português](#Geometria\_das\_Distâncias)
+
+## Distance Geometry
 
 Description
 
-## Português
+### Problem
+
+Explaining GDP
+
+### Research
+
+Showing our research
+
+### Members
+
+Listing our members
+
+### Contact
+
+Contact info
+
+## Geometria das Distâncias
 
 Descrição
+
+### Problema
+
+Explicando o PGD
+
+### Pesquisa
+
+Exibindo a nossa pesquisa
+
+### Membros
+
+Listagem dos membros
+
+### Contato
+
+Informação de contato
 
 <!--
 
