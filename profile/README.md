@@ -3,7 +3,7 @@
 Choose your preferred language:
 
  * [English](#distance-geometry)
- * [Português](#geometria-das-distancias)
+ * [Português](#geometria-das-distâncias)
 
 ## Distance Geometry
 
